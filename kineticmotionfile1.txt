@@ -1,0 +1,24 @@
+I just wanted to touch base to see how you’re getting on with the control library we requested and the dynamic field groupings?
+
+Keith showed you the groupings feature during the training:
+
+Group 3 ->
+                Group 3.1->
+                … 
+
+We need a neat way to represent grouped fields without using up too much space and will work on mobile phones.
+
+From the UI document I think we asked for:
+
+•	Textbox
+•	Date picker
+•	Colour picker
+•	Grids
+•	Loading spinners
+•	Panels
+•	Tabs
+•	Split buttons
+•	Modals
+•	Loaders
+•	Long press buttons (to open a menu for other actions)
+•	And a split screen mode
